@@ -9,11 +9,7 @@ Fork this repository
 
 Click on Fork Button.
 
-After that open the file which you want to do changes.
-
-[Add hobbies](https://github.com/HacktoberFest-CU/Fourth-PR/blob/master/Add%20hobbies) is our first file.
-
-Click on the edit button and add your details in the mentioned format.
+Create a new file with your NAME and add your details.
 
 Last Click on Commit Changes .
 
